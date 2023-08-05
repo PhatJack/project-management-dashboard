@@ -2,7 +2,7 @@
 
 const Dashboard = () => {
 	return (
-		<div className='flex-[0_1_75%]'>Dashboard</div>
+		<div className='flex-[0_1_auto]'>Dashboard</div>
 
 	)
 }
