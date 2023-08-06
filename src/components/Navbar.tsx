@@ -51,7 +51,7 @@ const Navbar = () => {
 		}
 	]
 	return (
-		<div className='flex-[0_1_15%] h-screen'>
+		<div className={`w-[15%]`}>
 			<div className="flex flex-col justify-center">
 				<div className="top-content p-6 border-b border-r">
 					<nav className="flex flex-row items-center justify-between">
